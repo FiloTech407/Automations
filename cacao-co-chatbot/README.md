@@ -1,5 +1,7 @@
 # Cacao Co. Customer Service Chatbot
 
+![Cacao Co. chatbot workflow](./workflow.png)
+
 An n8n workflow that powers a public website chat assistant ("Jarvis")
 for a cocoa merchant. It answers product questions, captures leads, and
 books Google Meet calls.
